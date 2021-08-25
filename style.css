@@ -1,5 +1,6 @@
 .header {
   padding-bottom: 100px;
+  text-decoration: none;
 }
 
 .about-link {
@@ -15,7 +16,9 @@
 }
 
 .footer {
-  background-color: lightgrey;
+  text-decoration: none;
+  background-color: RGB(232, 223, 216);
+  color: RGB(107, 107, 107);
   position: absolute;
   bottom: 0px;
 }
