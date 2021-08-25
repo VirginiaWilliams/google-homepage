@@ -1,5 +1,5 @@
 .header {
-  padding: 10px;
+  padding-bottom: 100px;
 }
 
 .about-link {
@@ -8,4 +8,8 @@
 
 .store-link {
   float: left;
+}
+
+.google-logo {
+  margin: auto;
 }
