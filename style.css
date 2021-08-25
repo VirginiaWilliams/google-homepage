@@ -1,6 +1,5 @@
 .header {
   padding-bottom: 100px;
-  background-color: red;
 }
 
 .about-link {
@@ -13,4 +12,22 @@
 
 .google-logo {
   margin: auto;
+}
+
+.footer {
+  background-color: lightgrey;
+  position: absolute;
+  bottom: 0px;
+}
+
+.footer-left {
+  float: left;
+}
+
+.footer-middle {
+  margin: auto;
+}
+
+.footer-right {
+  float: right;
 }
