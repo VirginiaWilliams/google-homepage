@@ -1,14 +1,18 @@
 .header {
   padding-bottom: 100px;
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 .about-link {
   float: left;
+  text-decoration: none;
+
 }
 
 .store-link {
   float: left;
+  text-decoration: none;
+
 }
 
 .google-logo {
@@ -16,7 +20,7 @@
 }
 
 .footer {
-  text-decoration: none;
+  /* text-decoration: none; */
   background-color: RGB(232, 223, 216);
   color: RGB(107, 107, 107);
   position: absolute;
@@ -25,12 +29,15 @@
 
 .footer-left {
   float: left;
+  text-decoration: none;
 }
 
 .footer-middle {
   margin: auto;
+  text-decoration: none;
 }
 
 .footer-right {
-  float: right;
+  margin-right: 0px;
+  text-decoration: none;
 }
