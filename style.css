@@ -1,3 +1,11 @@
-body {
-  background-color: lightgreen;
+.header {
+  padding: 10px;
+}
+
+.about-link {
+  float: left;
+}
+
+.store-link {
+  float: left;
 }
